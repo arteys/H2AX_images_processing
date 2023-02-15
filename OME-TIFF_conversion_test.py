@@ -2,6 +2,7 @@ from pyometiff import OMETIFFReader
 import numpy as np
 import cv2
 
+
 path = "C:/Users/Modern/Desktop/Kirill/B8/B8/B8_IX_Red_T0_Z0.ome.tif"
 save_path = "C:/Users/Modern/Desktop/Kirill/B8/B8/Images/"
 
